@@ -22,8 +22,6 @@ This is the project on popular Tic-Tac-Toe Game. This game is fairly simple by i
 * For windows based system- installed C/C++ compiler, GNU/G++, Mingw or Cygwin.   <br />
 * Installed shell prompt, preferably PowerShell for Windows system, Bash for Linux, BSD and Max OS.   <br />
 * Xterm shell in case of Linux users on an Integrated Development Environment such as Code::Blocks.   <br />
-* Systems driver for display and input (keyboard), as well as proper input/output channel cal libration on a system-wide scale <br />
-
 
 
 # Screenshot
