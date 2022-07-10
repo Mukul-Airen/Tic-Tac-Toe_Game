@@ -8,8 +8,7 @@ This is the project on popular Tic-Tac-Toe Game. This game is fairly simple by i
 # Logic 
 * The game is to be played between two people (in this program between two persons).   <br />
 * One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.      <br />
-* The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).  <br />
-* If no one wins, then the game is said to be draw.
+* The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’) or If no one wins, then the game is said to be draw.
 
 # Requirement
 ## Hardware Requirements
@@ -32,7 +31,7 @@ This is the project on popular Tic-Tac-Toe Game. This game is fairly simple by i
 ![](Images/one.png)
 ## Win Match
 ![](Images/two.png)
-## Box All Ready Filled
+## Box All Ready Filled and try again
 ![](Images/three.png)
-## Game Over
+## Draw Match
 ![](Images/four.png)
